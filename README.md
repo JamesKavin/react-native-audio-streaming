@@ -127,13 +127,6 @@ class PlayerUI extends Component {
 - [ ] Handle artwork of artist
 - [ ] Add tests
 
-## Credits
-
-- Android version based on the work of @EstebanFuentealba https://github.com/EstebanFuentealba/react-native-android-audio-streaming-aac
-- iOS version based on the work of @jhabdas https://github.com/jhabdas/lumpen-radio
-
-See also the list of [contributors](https://github.com/tlenclos/react-native-audio-streaming/graphs/contributors) who participated in this project.
-
 ## Contribute
 
 Since symlink support is [still lacking](https://github.com/facebook/react-native/issues/637) on React Native, I use the [wml](https://github.com/wix/wml) cli tool created by the nice folks at wix.
